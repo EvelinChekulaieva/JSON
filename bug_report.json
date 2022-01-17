@@ -1,0 +1,7 @@
+{
+  "Title" : " Button is not working",
+  "Priority" : "Magor"
+  "StepsToReproduce" : "TBD",
+  "ExpectedResult": "Button is working",
+  "ActualResult": "Button is not clicable"
+}
